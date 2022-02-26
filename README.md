@@ -12,3 +12,13 @@ https://github.com/syedsimanta03/JavaScript-Dessign-Pattern <br/>
 Learn Blockchain <br/>
 **ONLINE:** https://syedsimanta03.github.io/blockchain-basic <br/>
 https://github.com/syedsimanta03/blockchain-basic <br/>
+
+Solidity
+=========
+https://github.com/syedsimanta03/solidity-syntax
+
+
+
+
+
+
