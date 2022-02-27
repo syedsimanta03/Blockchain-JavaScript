@@ -19,7 +19,7 @@ Projects
 
 Solidity
 =========
-https://github.com/syedsimanta03/solidity-syntax
+https://github.com/syedsimanta03/solidity-syntax /
 https://github.com/syedsimanta03/solidity-next
 
 
