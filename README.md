@@ -13,10 +13,14 @@ Learn Blockchain <br/>
 **ONLINE:** https://syedsimanta03.github.io/blockchain-basic <br/>
 https://github.com/syedsimanta03/blockchain-basic <br/>
 
+Projects
+=========
+
+
 Solidity
 =========
 https://github.com/syedsimanta03/solidity-syntax
-
+https://github.com/syedsimanta03/solidity-next
 
 
 
