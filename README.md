@@ -24,7 +24,7 @@ https://github.com/syedsimanta03/solidity-syntax <br/>
 https://github.com/syedsimanta03/solidity-next <br/>
 https://github.com/syedsimanta03/solidity-builtin <br/>
 https://github.com/syedsimanta03/openzeppelin-extend  <br/>
-https://github.com/syedsimanta03/wallet
+https://github.com/syedsimanta03/multi-signature-wallet
 
 
 
