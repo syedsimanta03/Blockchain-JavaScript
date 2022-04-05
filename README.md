@@ -16,7 +16,8 @@ https://github.com/syedsimanta03/blockchain-basic <br/>
 Projects
 =========
 https://github.com/syedsimanta03/DeFi-Token-Staking-App <br/>
-https://github.com/syedsimanta03/dex-openzeppelin
+https://github.com/syedsimanta03/dex-openzeppelin <br/>
+https://github.com/syedsimanta03/crypto-kitties-clone
 
 
 Solidity
