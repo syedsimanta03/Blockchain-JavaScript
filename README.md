@@ -22,6 +22,7 @@ https://github.com/syedsimanta03/crypto-kitties-clone
 
 Solidity
 =========
+https://github.com/syedsimanta03/MarioNft <br/>
 https://github.com/syedsimanta03/solidity-syntax <br/>
 https://github.com/syedsimanta03/solidity-next <br/>
 https://github.com/syedsimanta03/solidity-builtin <br/>
